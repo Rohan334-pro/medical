@@ -14,7 +14,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 
 ```
-  WATCH: Setup & Demo Of Project
+  Setup & Demo Of Project
 ```
 
 #### Install Vs Code Editor
