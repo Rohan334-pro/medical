@@ -10,7 +10,7 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-blockchain-web3-tools:-next.js-solana-binance-solidity-and-ico-marketplace)
+- [Final Source Code](https://starlit-zuccutto-c5e6b5.netlify.app/)
 
 
 ```
@@ -39,11 +39,10 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Clone Starter File
 
-```https://github.com/omkar7075/medical
+```https://github.com/Rohan334-pro/medical
   GET: Project Starter File Download
 ```
 
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
 ## Final Code Instruction
 
@@ -116,5 +115,5 @@ We are using RemixID for deploying the contract and generation of the ABI in the
 
 ## Authors
 
-- [@omkar7075](https://github.com/omkar7075)
+- [@Rohan334](https://github.com/Rohan334-pro/medical)
 
