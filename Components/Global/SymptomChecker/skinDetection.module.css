@@ -1,0 +1,40 @@
+
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  text-align: center;
+  color: #333;
+}
+
+.result {
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #e9f5e9;
+  color: #2d612d;
+}
+
+.spinner {
+  text-align: center;
+}
+
+.loadingText {
+  font-size: 18px;
+  color: #555;
+  margin-bottom: 10px;
+}
+
+.errorMessage {
+  padding: 15px;
+  background-color: #f8d7da;
+  color: #721c24;
+  border-radius: 5px;
+  text-align: center;
+}
