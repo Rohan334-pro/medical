@@ -206,9 +206,16 @@ const SideBar = ({
             <strong className="font-w400">TBC Hospital Admin Dashboard</strong>©
             2025 All Rights Reserved
           </p>
-          <p className="fs-12">
-            Made with <span className="heart" /> by @Ahaan
-          </p>
+       <p className="fs-12">
+           Made by <span className="heart" /> 
+              <span 
+                 className="clickable" 
+                 onClick={() => window.open('https://github.com/Rohan334-pro/medical', '_blank')}
+                 style={{ cursor: 'pointer', color: 'blue', textDecoration: 'underline' }}
+                >
+              Rohan334-pro
+            </span>
+           </p>
         </div>
       </div>
     </div>
