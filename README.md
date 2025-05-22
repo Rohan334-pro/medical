@@ -6,7 +6,7 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2024/07/Build-Deploy-a-Medical-Health-Management-Blockchain-Dapp-Solidity-Hardhat-Nextjs-Context-AP-and-web3-providers.jpg)
+![alt text](https://ibb.co/ycNfXv8r)
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
