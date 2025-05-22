@@ -6,7 +6,7 @@ In this comprehensive tutorial, we will guide you through the process of buildin
 
 ## Project Overview
 
-![alt text](https://ibb.co/ycNfXv8r)
+![alt text]([https://ibb.co/ycNfXv8r](https://drive.google.com/file/d/1rWEZ-6MQnbgBfPQ0EC__BOsfVYYMnUvq/view?usp=sharing))
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
